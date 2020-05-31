@@ -1,40 +1,40 @@
+<h1 align="center">Stopwatch</h1>
 <p align="center">
-    <img src="res/drawable/time.png" alt="Logo" width=250 height=250>
-  <h3 align="center">Nile Gift</h3>
-<p align="center">
+ <img width="210" height="210" src="https://github.com/Abanoub-Showky/Stopwatch/blob/master/app/src/main/res/drawable-v24/time.png"/>
+</p> 
 
-    Where it all begins
-    <br>
-    The objective of this tutorial is to introduce you to the core programming concepts that will form the foundation of most of the apps you’ll build in the future.
-    <br>
-    <a href="https://github.com/Mohanedy98/Gift-of-The-Nile/issues/new">Report bug</a>
-    ·
-    <a href="https://github.com/Mohanedy98/Gift-of-The-Nile/issues/new">Request feature</a>
-<br>
+<p align="center">
+  The objective of this tutorial is to introduce you to the core programming concepts that will form the foundation of most of the apps   youâ€™ll build in the future.
 </p>
 
 
 ## Table of contents
-
-Technologies
-- [Desription](#description)
+- [Description](#description)
 - [Screenshots](#screenshots)
-- [Video](#video)
 - [Technologies](#technologies)
 - [Creator](#creator)
 - [Copyright and license](#copyright-and-license)
 
-## Desription
-** The objective of this tutorial is to introduce you to the core programming concepts that will form the foundation of most of the apps you’ll build in the future.**
-
+## Description
+<p>
+  The objective of this tutorial is to introduce you to the core programming concepts that will form the foundation of most of the apps   youâ€™ll build in the future.
+</p>
+  
 
 ## Screenshots
- <img src="res/drawable/screen1.jpg" alt="Timeline"  height=350> &nbsp; <img src="resources/screenshots/Screenshot_1579714089.png" alt="Timeline"  height=350>
- <img src="res/drawable/screen2.jpg" alt="Library"  height=350> &nbsp; <img src="resources/screenshots/Screenshot_1579713531.png" alt="Pharaoh"  height=350>
- <img src="res/drawable/screen3.jpg" alt="Library"  height=350> &nbsp; <img src="resources/screenshots/Screenshot_1579713612.png" alt="Pharaoh"  height=350>
-
-## Video
- <img src="res/drawable/imageGif.jpg" alt="Timeline"  height=350> &nbsp; <img src="resources/screenshots/Screenshot_1579714089.png" alt="Timeline"  height=350>
+<table">
+    <tr>
+      <td>
+            <img src="https://github.com/Abanoub-Showky/Stopwatch/blob/master/app/src/main/res/drawable-v24/screen2.jpg"                             title="source: imgur.com" height="450"/>
+             </td>
+       <td>
+            <img src="https://github.com/Abanoub-Showky/Stopwatch/blob/master/app/src/main/res/drawable-v24/screen3.jpg"                             title="source: imgur.com" height="450"/>
+       </td>
+       <td>
+            <img src="https://github.com/Abanoub-Showky/Stopwatch/blob/master/app/src/main/res/drawable-v24/screen1.jpg"                             title="source: imgur.com" height="450"/>
+      </td>
+   </tr>
+</table>
 
 ## Technologies
 * Android
