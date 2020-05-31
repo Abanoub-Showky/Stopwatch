@@ -22,8 +22,9 @@
   
 
 ## Screenshots
-<table">
-    <tr>
+<p align="center">
+<table align="center">
+    <tr align="center">
       <td>
             <img src="https://github.com/Abanoub-Showky/Stopwatch/blob/master/app/src/main/res/drawable-v24/screen2.jpg"                             title="source: imgur.com" height="450"/>
              </td>
@@ -35,6 +36,7 @@
       </td>
    </tr>
 </table>
+</p>
 
 ## Technologies
 * Android
